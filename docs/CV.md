@@ -4,14 +4,18 @@
 
 ### MSc Ethical Hacking and Cybersecurity
 Institution: Abertay University, Dundee, Scotland
+
 Duration: 09/2021 - 09/2022
-Courses
+
 - 
 
 ### BTech Computer Science and Engineering
 Institution: Vellore Institute of Technology, Vellore, India
+
 Duration: 09/2016 - 06/2020
+
 CGPA: 7.89
+
 - Cryptography Fundamentals
 - Problem-Solving and Programming using Python
 - Problem Solving and Object-Oriented Programming using C and C++
@@ -38,13 +42,17 @@ Duration: 05/2018 - 06/2018 (6 weeks)
 
 ### Live Stream Processing Techniques to Assist Unmanned, Regulated Railway Crossings
 Proceedings: International Conference on Advances in Computing and Data Sciences
+
 DOI: 10.1007/978-3-030-81462-5_17
+
 Publication Date: Oct 23, 2021
 
 
 ### Smart Prediction and Monitoring of Waste Disposal System Using IoT and Cloud for IoT Based Smart Cities
 Journal: Wireless Personal Communications
+
 DOI: 10.1007/s11277-021-08897-z
+
 Publication Date: Aug 19, 2021
 
 
@@ -56,23 +64,25 @@ Publication Date: July 1, 2021
 
 ### Security Attacks in S-WBANs on IoT based Healthcare Applications
 Journal: International Journal of Innovative Technology and Exploring Engineering (IJITEE)
+
 DOI: 10.35940/IJITEE.A4242.119119
+
 Publication Date: Nov 10, 2019
 
-### Achievements
+## Achievements
 
-#### First Place Winner at HackOnFest 2020
+### First Place Winner at HackOnFest 2020
 Type of Event: Online Global level Bug-Bounty program for beginners in Ethical Hacking
 Duration: 14/10/2020 - 7/1/2021
 
-### Certifications
+## Certifications
 
-#### MTA: Security Fundamentals
+### MTA: Security Fundamentals
 Certified 2021
 
-### Online Courses
+## Online Courses
 
-## Ethical Hacking Course
+### Ethical Hacking Course
 Company: Internshala
 Duration: 29/3/2020 - 10/5/2020 (6 weeks)
 
@@ -83,7 +93,7 @@ Duration: 29/3/2020 - 10/5/2020 (6 weeks)
 - Hindi - Fluent
 - French - Limited
 
-### Workshops/Events Attended
+## Workshops/Events Attended
 
 
 
