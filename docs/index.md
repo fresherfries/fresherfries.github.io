@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mariamsv66@gmail.com**
 
-- ⚡ Fun fact **I write book reviews in my free time** [here](https://therisingtilde.com/)
+- ⚡ Fun fact **I write in my free time. You can find my work listed** [here](https://fresherfries.github.io/CV-writing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
