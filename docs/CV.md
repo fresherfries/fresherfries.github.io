@@ -14,12 +14,14 @@ Consolidated CV in PDF form is available [here](https://fresherfries.github.io/M
 
 [Achievements](#Achievements)
 
+[Projects](#Projects)
+
 [Online Courses](#Online-Courses)
+
+[Volunteer Roles and Event Participations](#Extra-Events)
 
 [Languages](#Languages)
 
-<!--[Workshops and Events Attended](#Workshops-and-Events-Attended)
--->
 [Interests](#Interests)
 
 
@@ -27,14 +29,17 @@ Consolidated CV in PDF form is available [here](https://fresherfries.github.io/M
 
 ### MSc Ethical Hacking and Cybersecurity
 🏫 Abertay University, Dundee, Scotland <br>
-Duration: 09/2021 - 09/2022
+🕚 09/2021 - 09/2022
+
+- Network Penetration Testing
+- Web Application Penetration Testing
+- Engineering Resilient Systems
+- Information Security
 
 ### BTech Computer Science and Engineering
-Institution: Vellore Institute of Technology, Vellore, India
-
-Duration: 09/2016 - 06/2020
-
-CGPA: 7.89
+🏫 Vellore Institute of Technology, Vellore, India <br>
+🕚 09/2016 - 06/2020 <br>
+📝 7.89
 
 - Cryptography Fundamentals
 - Problem-Solving and Programming using Python
@@ -50,82 +55,137 @@ CGPA: 7.89
 - Database Management Systems
 
 ### 11th and 12th Grades
-Duration: 2014 - 2016
-Institution: AECS Magnolia PU College FIITJEE
+Institution: AECS Magnolia PU College FIITJEE <br>
+Duration: 2014 - 2016 <br>
 Percentage: 87.5
 
 ### 6th to 10th Grades
-Duration: 2009 - 2014
+Duration: 2009 - 2014 <br>
 Institution: Delhi Public School, Diamond Point, Secunderabad
 CGPA: 9.8 
 
 ### 5th Grade
-Duration: 2008 - 2009
+Duration: 2008 - 2009 <br>
 Institution: Millstone River School, Plainsboro, New Jersey, USA
 
 ## <a id="Work-Experience">Work Experience</a>
 
 ### Ethical Hacking Intern
-Company: EY
-Location: Bengaluru, India
-
-Duration: 05/2018 - 06/2018 (6 weeks)
+💼 EY <br>
+📍 Bengaluru, India <br>
+🕚 05/2018 - 06/2018 (6 weeks)
 
 - Learnt ethical hacking basics
 - Worked with the penetration testing team on endpoint security
 
-
 ## <a id="Publications">Publications</a>
 
+### Automated Anomaly Detection tool for Industrial Control Systems
+Proceedings: (Publication Pending) <br>
+DOI: (Publication Pending) <br>
+Publication Date: (Publication Pending)
+- Used Interquartile Range and Finite State Automata to identify anomalies.
+- Tested the tool with three varied ICS to improve resilience: Secure Water Treatment testbed, Water Distribution testbed
+and Gasoil Heating Loop.
+- Achieved higher detection rate and better performance than conventional anomaly detection techniques.
+
 ### Live Stream Processing Techniques to Assist Unmanned, Regulated Railway Crossings
-Proceedings: International Conference on Advances in Computing and Data Sciences
-
-DOI: 10.1007/978-3-030-81462-5_17
-
+Proceedings: International Conference on Advances in Computing and Data Sciences <br>
+DOI: 10.1007/978-3-030-81462-5_17 <br>
 Publication Date: Oct 23, 2021
 
-
 ### Smart Prediction and Monitoring of Waste Disposal System Using IoT and Cloud for IoT Based Smart Cities
-Journal: Wireless Personal Communications
-
-DOI: 10.1007/s11277-021-08897-z
-
+Journal: Wireless Personal Communications <br>
+DOI: 10.1007/s11277-021-08897-z <br>
 Publication Date: Aug 19, 2021
 
-
 ### Multi-class Text Classification and Publication of Crime Data from Online News Sources
-Proceedings: 2021 8th International Conference on Smart Computing and Communications (ICSCC)
-
-DOI: 10.1109/ICSCC51209.2021.9528127
-
+Proceedings: 2021 8th International Conference on Smart Computing and Communications (ICSCC) <br>
+DOI: 10.1109/ICSCC51209.2021.9528127 <br>
 Publication Date: July 1, 2021
 
-
 ### Security Attacks in S-WBANs on IoT based Healthcare Applications
-Journal: International Journal of Innovative Technology and Exploring Engineering (IJITEE)
-
-DOI: 10.35940/IJITEE.A4242.119119
-
+Journal: International Journal of Innovative Technology and Exploring Engineering (IJITEE) <br>
+DOI: 10.35940/IJITEE.A4242.119119 <br>
 Publication Date: Nov 10, 2019
+- Reviewed 40 existing Smart Wireless Body Area Networks (S-WBANs) and assessed their vulnerabilities.
+- Identified flaws in current methods of remote computer-assisted rehabilitation and their impact if compromised within
+IoT-based systems.
+- Proposed novel blockchain-based S-WBANs to address some of the vulnerabilities of the existing networks pertaining to
+data privacy and security.
+- Published in a Scopus-indexed journal.
+
 
 ## <a id="Achievements">Achievements</a>
 
-### First Place Winner at HackOnFest 2020
-Type of Event: Online Global level Bug-Bounty program for beginners in Ethical Hacking
+### Outstanding Woman in Cyber and Third Place Winner in Poster Category
+Event Name: 5th IEEE Conference on Dependable and Secure Computing (SICSA Event) <br>
+Type of Event: IEEE Conference <br>
+Duration: 06/2022
 
+### First Place Winner
+Event Name: HackOnFest 2020
+Type of Event: Online Global level Bug-Bounty program for beginners in Ethical Hacking <br>
 Duration: 14/10/2020 - 7/1/2021
 
 ## <a id="Certifications">Certifications</a>
 
 ### MTA: Security Fundamentals
 Certified 2021
+- Security layers
+- Authentication, Authorization & Accounting
+- Security policies
+- Network security
+- Protecting Server & Client
+
+## <a id="Projects">Projects</a>
+
+### Web Application Penetration test
+🕚 Apr 2022
+- Utilized the methodology in the OWASP Web Security Testing Guide.
+- Produced a comprehensive report to detail the procedure, findings, and suggested improvements.
+ 
+### White Box Penetration Test of a Network
+🕚 Jan 2022
+- Executed steps of a network penetration testing methodology.
+- Outlined the findings, evaluations, potential consequences, and recommendations in a report.
+- Constructed the security report aimed at the network security administrator of a company.
 
 ## <a id="Online-Courses">Online Courses</a>
 
 ### Ethical Hacking Course
-Company: Internshala
-
+Company: Internshala <br>
 Duration: 29/3/2020 - 10/5/2020 (6 weeks)
+- Information gathering
+- Web VAPT
+- OWASP
+- SQL injections
+- Advanced web application attacks
+- Client-side attacks
+- Identifying security misconfigurations
+- Exploiting outdated web applications
+- Automating VAPT
+- Secure code development
+- Documenting & reporting vulnerabilities.
+
+### SEC460 course - SANS Cyber Defense India 2022 Event
+💼 SANS
+
+## <a id="Extra-Events">Volunteer Roles and Event Participations</a>
+
+### Virtual Moderator
+Event: SEC460 course - SANS Cyber Defense India 2022 Event
+Organisation: SANS
+
+### Member
+Organisation: Electronic Frontier Foundation
+
+### 2022 SheLeadsTech Ambassador
+Organisation: ISACA
+
+### Participant
+Event: Core NetWars Tournament 8 - SANS Asia Pacific Regional July 2022
+Organisation: SANS
 
 ## <a id="Languages">Languages</a>
 
@@ -134,11 +194,17 @@ Duration: 29/3/2020 - 10/5/2020 (6 weeks)
 - Hindi - Fluent
 - French - Limited
 
-<!--## <a id="Workshops-and-Events-Attended">Workshops and Events Attended</a> -->
-
 ## <a id="Skills">Skills</a>
 
-### Technical Skills
+### Cybersecurity Skills
+- Familiar with OWASP Top Ten, Kali Linux and Python for web application security testing.
+- Hands-on experience with penetration testing tools such as Burp Suite (Community Edition), Metasploit and sqlmap.
+- Utilize and analyze results from scanners such as OpenVAS, Acunetix, OWASP ZAP, Nmap and Tenable Nessus to perform a
+vulnerability assessment and management.
+- Effectively write reports aimed at technical and non-technical personnel.
+- Research existing security threats and provide recommendations to combat them.
+
+### Other Technical Skills
 - HTML
 - CSS
 - C++
@@ -150,8 +216,6 @@ Duration: 29/3/2020 - 10/5/2020 (6 weeks)
 ### Non-Technical Skills
 - Strong Work Ethic
 - Ability to work well under pressure
-
-
 
 ## <a id="Interests">Interests</a>
 
