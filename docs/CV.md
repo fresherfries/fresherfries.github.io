@@ -1,3 +1,5 @@
+[Back to homepage](https://fresherfries.github.io/)
+
 # CV
 
 Consolidated CV in PDF form is available [here](https://fresherfries.github.io/Mariam_Varkey_CV.pdf)
@@ -50,7 +52,7 @@ CGPA: 7.89
 - Data Structures and Algorithms 		
 - Database Management Systems
 
-## Work Experience
+## <a id="Work Experience">Work Experience</a>
 
 ### Ethical Hacking Intern
 Company: EY
@@ -61,7 +63,7 @@ Duration: 05/2018 - 06/2018 (6 weeks)
 - Worked with the penetration testing team on endpoint security
 
 
-## Publications
+## <a id="Publications">Publications</a>
 
 ### Live Stream Processing Techniques to Assist Unmanned, Regulated Railway Crossings
 Proceedings: International Conference on Advances in Computing and Data Sciences

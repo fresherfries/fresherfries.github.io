@@ -1,3 +1,5 @@
+[Back to homepage](https://fresherfries.github.io/)
+
 # CV
 
 # Table of Contents
@@ -6,7 +8,7 @@
 
 [Online Courses](#Online-Courses)
 
-## Work Experience
+## <a id="Work Experience">Work Experience</a>
 
 ### Co-Founder, Editor and Book Reviewer
 Company: The Rising Tilde
@@ -43,7 +45,7 @@ Duration: 08/2018 - 10/2018
 
 - Wrote numerous articles for the company's blog.
 
-## Online Courses
+## <a id="Online Courses">Online Courses</a>Online Courses
 
 ### Creative Writing Course
 Company: Internshala
