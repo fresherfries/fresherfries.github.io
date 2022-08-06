@@ -26,8 +26,7 @@ Consolidated CV in PDF form is available [here](https://fresherfries.github.io/M
 ## <a id="Education">Education</a>
 
 ### MSc Ethical Hacking and Cybersecurity
-Institution: Abertay University, Dundee, Scotland
-
+🏫 Abertay University, Dundee, Scotland <br>
 Duration: 09/2021 - 09/2022
 
 ### BTech Computer Science and Engineering
