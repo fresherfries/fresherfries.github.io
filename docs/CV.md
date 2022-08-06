@@ -1,9 +1,18 @@
 # CV
 
-## Table of Contents
+[Consolidated CV in PDF form is available here](https://fresherfries.github.io/Mariam_Varkey_CV.pdf)
+
+# Table of Contents
 
 [Education](https://fresherfries.github.io/CV#Education)
 [Work Experience](https://fresherfries.github.io/CV#Work-Experience)
+[Publications](https://fresherfries.github.io/CV#Publications)
+[Achievements](https://fresherfries.github.io/CV#Achievements)
+[Online Courses](https://fresherfries.github.io/CV#Online-Courses)
+[Languages](https://fresherfries.github.io/CV#Languages)
+[Workshops and Events Attended](https://fresherfries.github.io/CV#Workshops-and-Events-Attended)
+[Interests](https://fresherfries.github.io/CV#Interests)
+
 
 ## Education
 
@@ -104,7 +113,7 @@ Duration: 29/3/2020 - 10/5/2020 (6 weeks)
 - Hindi - Fluent
 - French - Limited
 
-## Workshops/Events Attended
+## Workshops and Events Attended
 
 ### 404 Not Found Hackathon
 Organisation: CodeChef, VIT, Vellore
