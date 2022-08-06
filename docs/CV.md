@@ -21,7 +21,7 @@ Consolidated CV in PDF form is available [here](https://fresherfries.github.io/M
 [Interests](https://fresherfries.github.io/CV#Interests)
 
 
-## Education
+## <a id="Education">Education</a>
 
 ### MSc Ethical Hacking and Cybersecurity
 Institution: Abertay University, Dundee, Scotland
