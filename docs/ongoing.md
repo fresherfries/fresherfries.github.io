@@ -1,5 +1,7 @@
-## Ongoing Projects
+## Ongoing Work
 
-### Language(s)
+### Masters Dissertation - Education Vulnerable Web Application for Beginners
 
-- Learning Thai
+### Language(s) I'm learning
+
+- Thai

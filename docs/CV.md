@@ -33,7 +33,9 @@ CGPA: 7.89
 
 ### Ethical Hacking Intern
 Company: EY
+
 Duration: 05/2018 - 06/2018 (6 weeks)
+
 - Learnt ethical hacking basics
 - Worked with the penetration testing team on endpoint security
 
@@ -58,7 +60,9 @@ Publication Date: Aug 19, 2021
 
 ### Multi-class Text Classification and Publication of Crime Data from Online News Sources
 Proceedings: 2021 8th International Conference on Smart Computing and Communications (ICSCC)
+
 DOI: 10.1109/ICSCC51209.2021.9528127
+
 Publication Date: July 1, 2021
 
 
@@ -73,6 +77,7 @@ Publication Date: Nov 10, 2019
 
 ### First Place Winner at HackOnFest 2020
 Type of Event: Online Global level Bug-Bounty program for beginners in Ethical Hacking
+
 Duration: 14/10/2020 - 7/1/2021
 
 ## Certifications
@@ -84,6 +89,7 @@ Certified 2021
 
 ### Ethical Hacking Course
 Company: Internshala
+
 Duration: 29/3/2020 - 10/5/2020 (6 weeks)
 
 ## Languages
@@ -95,7 +101,9 @@ Duration: 29/3/2020 - 10/5/2020 (6 weeks)
 
 ## Workshops/Events Attended
 
-
+### 404 Not Found Hackathon
+Organisation: CodeChef, VIT, Vellore
+Duration: 27/10/2018 - 28/10/2018
 
 ## Interests
 
