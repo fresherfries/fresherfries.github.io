@@ -12,15 +12,15 @@ Consolidated CV in PDF form is available [here](https://fresherfries.github.io/M
 
 [Publications](#Publications)
 
-[Achievements](https://fresherfries.github.io/CV#Achievements)
+[Achievements](#Achievements)
 
-[Online Courses](https://fresherfries.github.io/CV#Online-Courses)
+[Online Courses](#Online-Courses)
 
-[Languages](https://fresherfries.github.io/CV#Languages)
+[Languages](#Languages)
 
-[Workshops and Events Attended](https://fresherfries.github.io/CV#Workshops-and-Events-Attended)
-
-[Interests](https://fresherfries.github.io/CV#Interests)
+<!--[Workshops and Events Attended](#Workshops-and-Events-Attended)
+-->
+[Interests](#Interests)
 
 
 ## <a id="Education">Education</a>
@@ -29,8 +29,6 @@ Consolidated CV in PDF form is available [here](https://fresherfries.github.io/M
 Institution: Abertay University, Dundee, Scotland
 
 Duration: 09/2021 - 09/2022
-
-- 
 
 ### BTech Computer Science and Engineering
 Institution: Vellore Institute of Technology, Vellore, India
@@ -52,10 +50,25 @@ CGPA: 7.89
 - Data Structures and Algorithms 		
 - Database Management Systems
 
-## <a id="Work Experience">Work Experience</a>
+### 11th and 12th Grades
+Duration: 2014 - 2016
+Institution: AECS Magnolia PU College FIITJEE
+Percentage: 87.5
+
+### 6th to 10th Grades
+Duration: 2009 - 2014
+Institution: Delhi Public School, Diamond Point, Secunderabad
+CGPA: 9.8 
+
+### 5th Grade
+Duration: 2008 - 2009
+Institution: Millstone River School, Plainsboro, New Jersey, USA
+
+## <a id="Work-Experience">Work Experience</a>
 
 ### Ethical Hacking Intern
 Company: EY
+Location: Bengaluru, India
 
 Duration: 05/2018 - 06/2018 (6 weeks)
 
@@ -96,39 +109,52 @@ DOI: 10.35940/IJITEE.A4242.119119
 
 Publication Date: Nov 10, 2019
 
-## Achievements
+## <a id="Achievements">Achievements</a>
 
 ### First Place Winner at HackOnFest 2020
 Type of Event: Online Global level Bug-Bounty program for beginners in Ethical Hacking
 
 Duration: 14/10/2020 - 7/1/2021
 
-## Certifications
+## <a id="Certifications">Certifications</a>
 
 ### MTA: Security Fundamentals
 Certified 2021
 
-## Online Courses
+## <a id="Online-Courses">Online Courses</a>
 
 ### Ethical Hacking Course
 Company: Internshala
 
 Duration: 29/3/2020 - 10/5/2020 (6 weeks)
 
-## Languages
+## <a id="Languages">Languages</a>
 
 - English - Fluent
 - Malayalam - Native
 - Hindi - Fluent
 - French - Limited
 
-## Workshops and Events Attended
+<!--## <a id="Workshops-and-Events-Attended">Workshops and Events Attended</a> -->
 
-### 404 Not Found Hackathon
-Organisation: CodeChef, VIT, Vellore
-Duration: 27/10/2018 - 28/10/2018
+## <a id="Skills">Skills</a>
 
-## Interests
+### Technical Skills
+- HTML
+- CSS
+- C++
+- PHP
+- Python
+- SQL Plus
+- MySQL
+
+### Non-Technical Skills
+- Strong Work Ethic
+- Ability to work well under pressure
+
+
+
+## <a id="Interests">Interests</a>
 
 - [Reading and Writing](https://fresherfries.github.io/CV-writing)
 - Chess
