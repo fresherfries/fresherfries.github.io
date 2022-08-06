@@ -1,13 +1,18 @@
 [Back to homepage](https://fresherfries.github.io/)
 
-# CV
+<h1> CV </h1>
 
-# Table of Contents
+- [Work Experience](#work-experience)
+  - [Co-Founder, Editor and Book Reviewer](#co-founder-editor-and-book-reviewer)
+  - [Book Reviewer](#book-reviewer)
+  - [Freelance Blogger](#freelance-blogger)
+  - [Content Writer](#content-writer)
+  - [Core Committee Member & Multiple Responsibilities](#core-committee-member--multiple-responsibilities)
+- [Online Courses](#online-courses)
+  - [Creative Writing Course](#creative-writing-course)
+- [Skills](#skills)
 
-[Work Experience](#Work-Experience) <br>
-[Online Courses](#Online-Courses)
-
-## <a id="Work-Experience">Work Experience</a>
+## Work Experience
 
 ### Co-Founder, Editor and Book Reviewer
 Company: The Rising Tilde <br>
@@ -22,7 +27,6 @@ suitable demographic.
 - Cultivated a social following of 900+ among platforms such as Instagram and Goodreads.
 - Customized the WordPress website with CSS, PHP, and custom plug-ins to ensure a graphically consistent and smooth user
   experience.
-
 
 ### Book Reviewer
 Company: OnlineBookClub.org <br>
@@ -41,30 +45,29 @@ Company: Byte Academy  <br>
 Duration: 08/2018 - 10/2018
 - Wrote numerous articles for the company's blog.
 
-### Multiple Responsibilities
+### Core Committee Member & Multiple Responsibilities
 Company: The Hindu Education Plus Club, VIT, Vellore <br>
 Duration: 02/2017 - 03/2018
 
 - Editor and Blogger for the club’s website
 - Core Committee Member of the Media and Editorial Departments
 - Video-Jockey (Interviewer) - Make-a-thon (2017)
-+ Interviewed Guests, Sponsors, HODs and Dean
+  - Interviewed Guests, Sponsors, HODs and Dean
 - Event Coverage - Media Team - GraVITas (2017) Technical Fest
-+ Report Writing
+  - Report Writing
 - Coordinator and Video Jockey (Interviewer) - Career Convention 2.0 (2017) Club’s flagship Event
-+ Interviewed Guest Speakers
+  - Interviewed Guest Speakers
 - Manager - Career Convention 3.0 (2018) Club’s flagship Event
 
 
-## <a id="Online-Courses">Online Courses</a>
+## Online Courses
 
 ### Creative Writing Course
 Company: Internshala  <br>
 Duration: 6 weeks
 
-## <a id="Skills">Skills</a>
+## Skills
 
-### Non-technical Skills
 - Editing
 - Creative Writing
 - Book Reviewing

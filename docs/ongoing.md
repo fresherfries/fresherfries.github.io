@@ -1,8 +1,13 @@
 [Back to homepage](https://fresherfries.github.io/)
 
-## Ongoing Works
+<h2> Ongoing Works </h2>
 
-### Masters Dissertation - Education Vulnerable Web Application for Beginners
+- [Masters Dissertation](#masters-dissertation)
+- [Certifications](#certifications)
+- [Language(s)](#languages)
+
+### Masters Dissertation
+Topic: Education Vulnerable Web Application for Beginners
 🕚 06/2022 - Present
 - Reviewed 15 existing vulnerable web applications built for cybersecurity education.
 - Identified the gap in real vs. expected knowledge required to use these applications.
