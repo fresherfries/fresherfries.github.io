@@ -1,5 +1,10 @@
 # CV
 
+## Table of Contents
+
+[Education](https://fresherfries.github.io/CV#Education)
+[Work Experience](https://fresherfries.github.io/CV#Work-Experience)
+
 ## Education
 
 ### MSc Ethical Hacking and Cybersecurity
