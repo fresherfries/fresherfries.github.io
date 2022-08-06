@@ -1,10 +1,12 @@
 <!-- Generated using https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
 
-<h1 align="center">Hi 👋, I'm Mariam Varkey. Welcome to my portfolio.</h1>
+<h1 align="center">Hi 👋, I'm Mariam Varkey. </h1>
 <h3 align="center">A MSc Ethical Hacking and Cybersecurity at Abertay University, Scotland.</h3>
 
-- 🔭 I’m currently working on [Multiple Ongoing Projects](https://fresherfries.github.io/ongoing)
+Welcome to my portfolio.
+
+- 🔭 I’m currently working on [Ongoing Projects](https://fresherfries.github.io/ongoing)
 
 - 🌱 I’m currently learning *Ethical Hacking*
 
@@ -22,8 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mariam-varkey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enterlinkedinname" height="30" width="40" /></a>
-<a href="/fresherfries" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="addrssfeedurllinkz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mariam-varkey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn_Link" height="30" width="40" /></a>
+<a href="https://github.com/fresherfries" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Github_Link" height="30" width="40" /></a>
 </p>
 
 
