@@ -6,9 +6,9 @@ Consolidated CV in PDF form is available [here](https://fresherfries.github.io/M
 
 [Education](#Education)
 
-[Work Experience](https://fresherfries.github.io/CV#Work-Experience)
+[Work Experience](#Work-Experience)
 
-[Publications](https://fresherfries.github.io/CV#Publications)
+[Publications](#Publications)
 
 [Achievements](https://fresherfries.github.io/CV#Achievements)
 

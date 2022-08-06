@@ -2,9 +2,9 @@
 
 # Table of Contents
 
-[Work Experience](https://fresherfries.github.io/CV-writing#Work-Experience)
+[Work Experience](#Work-Experience)
 
-[Online Courses](https://fresherfries.github.io/CV-writing#Online-Courses)
+[Online Courses](#Online-Courses)
 
 ## Work Experience
 
