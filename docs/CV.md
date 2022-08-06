@@ -6,24 +6,17 @@ Consolidated CV in PDF form is available [here](https://fresherfries.github.io/M
 
 # Table of Contents
 
-[Education](#Education)
-
-[Work Experience](#Work-Experience)
-
-[Publications](#Publications)
-
-[Achievements](#Achievements)
-
-[Projects](#Projects)
-
-[Online Courses](#Online-Courses)
-
-[Volunteer Roles and Event Participations](#Extra-Events)
-
-[Languages](#Languages)
-
+[Education](#Education)  <br>
+[Work Experience](#Work-Experience)  <br>
+[Publications](#Publications)  <br>
+[Achievements](#Achievements)  <br>
+[Projects](#Projects)  <br>
+[Online Courses](#Online-Courses)  <br>
+[Volunteer Roles and Event Participations](#Extra-Events)  <br>
+[Languages](#Languages)  <br>
 [Interests](#Interests)
 
+------
 
 ## <a id="Education">Education</a>
 
@@ -39,7 +32,7 @@ Consolidated CV in PDF form is available [here](https://fresherfries.github.io/M
 ### BTech Computer Science and Engineering
 🏫 Vellore Institute of Technology, Vellore, India <br>
 🕚 09/2016 - 06/2020 <br>
-📝 7.89
+📝 7.89 CGPA
 
 - Cryptography Fundamentals
 - Problem-Solving and Programming using Python
@@ -61,12 +54,12 @@ Percentage: 87.5
 
 ### 6th to 10th Grades
 Duration: 2009 - 2014 <br>
-Institution: Delhi Public School, Diamond Point, Secunderabad
+Institution: Delhi Public School, Diamond Point, Secunderabad <br>
 CGPA: 9.8 
 
 ### 5th Grade
 Duration: 2008 - 2009 <br>
-Institution: Millstone River School, Plainsboro, New Jersey, USA
+Institution: Millstone River School, Plainsboro, New Jersey, USA <br>
 
 ## <a id="Work-Experience">Work Experience</a>
 
@@ -74,7 +67,6 @@ Institution: Millstone River School, Plainsboro, New Jersey, USA
 💼 EY <br>
 📍 Bengaluru, India <br>
 🕚 05/2018 - 06/2018 (6 weeks)
-
 - Learnt ethical hacking basics
 - Worked with the penetration testing team on endpoint security
 
@@ -124,7 +116,7 @@ Type of Event: IEEE Conference <br>
 Duration: 06/2022
 
 ### First Place Winner
-Event Name: HackOnFest 2020
+Event Name: HackOnFest 2020 <br>
 Type of Event: Online Global level Bug-Bounty program for beginners in Ethical Hacking <br>
 Duration: 14/10/2020 - 7/1/2021
 
@@ -184,7 +176,7 @@ Organisation: Electronic Frontier Foundation
 Organisation: ISACA
 
 ### Participant
-Event: Core NetWars Tournament 8 - SANS Asia Pacific Regional July 2022
+Event: Core NetWars Tournament 8 - SANS Asia Pacific Regional July 2022 <br> 
 Organisation: SANS
 
 ## <a id="Languages">Languages</a>

@@ -4,23 +4,17 @@
 
 # Table of Contents
 
-[Work Experience](#Work-Experience)
-
+[Work Experience](#Work-Experience) <br>
 [Online Courses](#Online-Courses)
 
 ## <a id="Work-Experience">Work Experience</a>
 
 ### Co-Founder, Editor and Book Reviewer
-Company: The Rising Tilde
-
-Location: Remote
-
-[Main Website](https://therisingtilde.com/)
-
-[Medium Page](https://medium.com/the-rising-tilde)
-
+Company: The Rising Tilde <br>
+Location: Remote <br>
+[Main Website](https://therisingtilde.com/) <br>
+[Medium Page](https://medium.com/the-rising-tilde) <br>
 Duration: 02/2019 - Present
-
 - Critiqued 27 books of various genres and published reviews and blog posts to drive engagement and book sales.
 - Pitched ideas to the review team triweekly and coordinated with book authors to ensure regular posts targeted towards a
 suitable demographic.
@@ -31,32 +25,24 @@ suitable demographic.
 
 
 ### Book Reviewer
-Company: OnlineBookClub.org
-
+Company: OnlineBookClub.org <br>
 Duration: 06/2018 - Present
-
 - Have written seven book reviews so far
 - [Profile](https://onlinebookclub.org/reviews/by-alena-surya.html)
 
-
 ### Freelance Blogger
-Company: BlogThug
-
+Company: BlogThug <br>
 Duration: 2018 - 2020
-
 - Have written five articles for the website
 - One of the articles continues to maintain the ‘Top Trending’ title
 
 ### Content Writer
-Company: Byte Academy
-
+Company: Byte Academy  <br>
 Duration: 08/2018 - 10/2018
-
 - Wrote numerous articles for the company's blog.
 
 ### Multiple Responsibilities
-Company: The Hindu Education Plus Club, VIT, Vellore
-
+Company: The Hindu Education Plus Club, VIT, Vellore <br>
 Duration: 02/2017 - 03/2018
 
 - Editor and Blogger for the club’s website
@@ -73,7 +59,7 @@ Duration: 02/2017 - 03/2018
 ## <a id="Online-Courses">Online Courses</a>
 
 ### Creative Writing Course
-Company: Internshala
+Company: Internshala  <br>
 Duration: 6 weeks
 
 ## <a id="Skills">Skills</a>
