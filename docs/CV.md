@@ -1,16 +1,23 @@
 # CV
 
-[Consolidated CV in PDF form is available here](https://fresherfries.github.io/Mariam_Varkey_CV.pdf)
+Consolidated CV in PDF form is available [here](https://fresherfries.github.io/Mariam_Varkey_CV.pdf)
 
 # Table of Contents
 
-[Education](https://fresherfries.github.io/CV#Education)
+[Education](#Education)
+
 [Work Experience](https://fresherfries.github.io/CV#Work-Experience)
+
 [Publications](https://fresherfries.github.io/CV#Publications)
+
 [Achievements](https://fresherfries.github.io/CV#Achievements)
+
 [Online Courses](https://fresherfries.github.io/CV#Online-Courses)
+
 [Languages](https://fresherfries.github.io/CV#Languages)
+
 [Workshops and Events Attended](https://fresherfries.github.io/CV#Workshops-and-Events-Attended)
+
 [Interests](https://fresherfries.github.io/CV#Interests)
 
 

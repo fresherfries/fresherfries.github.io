@@ -12,6 +12,7 @@
 Company: The Rising Tilde
 
 [Main Website](https://therisingtilde.com/)
+
 [Medium Page](https://medium.com/the-rising-tilde)
 
 Duration: 02/2019 - Present
