@@ -1,6 +1,6 @@
 [Back to homepage](https://fresherfries.github.io/)
 
-<h1> CV </h1>
+<h2> CV </h2>
 
 - [WORK EXPERIENCE](#work-experience)
   - [Co-Founder, Editor and Book Reviewer](#co-founder-editor-and-book-reviewer)

@@ -1,6 +1,6 @@
 [Back to homepage](https://fresherfries.github.io/)
 
-<h1> CV </h1>
+<h2> CV </h2>
 
 Consolidated CV in PDF form is available [here](https://fresherfries.github.io/Mariam_Varkey_CV.pdf)
 
@@ -15,28 +15,28 @@ Consolidated CV in PDF form is available [here](https://fresherfries.github.io/M
   - [Smart Prediction and Monitoring of Waste Disposal System Using IoT and Cloud for IoT Based Smart Cities](#smart-prediction-and-monitoring-of-waste-disposal-system-using-iot-and-cloud-for-iot-based-smart-cities)
   - [Multi-class Text Classification and Publication of Crime Data from Online News Sources](#multi-class-text-classification-and-publication-of-crime-data-from-online-news-sources)
   - [Security Attacks in S-WBANs on IoT based Healthcare Applications](#security-attacks-in-s-wbans-on-iot-based-healthcare-applications)
-- [Achievements](#achievements)
+- [ACHIEVEMENTS](#achievements)
   - [Outstanding Woman in Cyber and Third Place Winner in Poster Category](#outstanding-woman-in-cyber-and-third-place-winner-in-poster-category)
   - [First Place Winner](#first-place-winner)
-- [Certifications](#certifications)
+- [CERTIFICATIONS](#certifications)
   - [MTA: Security Fundamentals](#mta-security-fundamentals)
-- [Projects](#projects)
+- [PROJECTS](#projects)
   - [Web Application Penetration test](#web-application-penetration-test)
   - [White Box Penetration Test of a Network](#white-box-penetration-test-of-a-network)
-- [Online Courses](#online-courses)
+- [ONLINE COURSES](#online-courses)
   - [Ethical Hacking Course](#ethical-hacking-course)
   - [SEC460 course - SANS Cyber Defense India 2022 Event](#sec460-course---sans-cyber-defense-india-2022-event)
-- [Volunteer Roles and Event Participations](#volunteer-roles-and-event-participations)
+- [VOLUNTEER ROLES AND EVENT PARTICIPATIONS](#volunteer-roles-and-event-participations)
   - [Virtual Moderator](#virtual-moderator)
   - [Volunteer Member](#volunteer-member)
   - [2022 SheLeadsTech Ambassador](#2022-sheleadstech-ambassador)
   - [Hacking Competition Participant](#hacking-competition-participant)
-- [Languages](#languages)
-- [Skills](#skills)
+- [LANGUAGES](#languages)
+- [SKILLS](#skills)
   - [Cybersecurity Skills](#cybersecurity-skills)
   - [Other Technical Skills](#other-technical-skills)
   - [Non-Technical Skills](#non-technical-skills)
-- [Interests](#interests)
+- [INTERESTS](#interests)
 
 ## EDUCATION
 
@@ -127,7 +127,7 @@ IoT-based systems.
 - Proposed novel blockchain-based S-WBANs to address some of the vulnerabilities of the existing networks pertaining to
 data privacy and security.
 
-## Achievements
+## ACHIEVEMENTS
 
 ### Outstanding Woman in Cyber and Third Place Winner in Poster Category
 Event Name: 5th IEEE Conference on Dependable and Secure Computing (SICSA Event) <br>
@@ -139,7 +139,7 @@ Event Name: HackOnFest 2020 <br>
 Type of Event: Online Global level Bug-Bounty program for beginners in Ethical Hacking <br>
 Duration: 14/10/2020 - 7/1/2021
 
-## Certifications
+## CERTIFICATIONS
 
 ### MTA: Security Fundamentals
 Certified 2021
@@ -149,7 +149,7 @@ Certified 2021
 - Network security
 - Protecting Server & Client
 
-## Projects
+## PROJECTS
 
 ### Web Application Penetration test
 🕚 Apr 2022
@@ -162,7 +162,7 @@ Certified 2021
 - Outlined the findings, evaluations, potential consequences, and recommendations in a report.
 - Constructed the security report aimed at the network security administrator of a company.
 
-## Online Courses
+## ONLINE COURSES
 
 ### Ethical Hacking Course
 Company: Internshala <br>
@@ -182,7 +182,7 @@ Duration: 29/3/2020 - 10/5/2020 (6 weeks)
 ### SEC460 course - SANS Cyber Defense India 2022 Event
 💼 SANS
 
-## Volunteer Roles and Event Participations
+## VOLUNTEER ROLES AND EVENT PARTICIPATIONS
 
 ### Virtual Moderator
 Event: SEC460 course - SANS Cyber Defense India 2022 Event
@@ -198,14 +198,14 @@ Organisation: ISACA
 Event: Core NetWars Tournament 8 - SANS Asia Pacific Regional July 2022 <br> 
 Organisation: SANS
 
-## Languages
+## LANGUAGES
 
 - English - Fluent
 - Malayalam - Native
 - Hindi - Fluent
 - French - Limited
 
-## Skills
+## SKILLS
 
 ### Cybersecurity Skills
 - Familiar with OWASP Top Ten, Kali Linux and Python for web application security testing.
@@ -228,7 +228,7 @@ vulnerability assessment and management.
 - Strong Work Ethic
 - Ability to work well under pressure
 
-## Interests
+## INTERESTS
 
 - [Reading and Writing](https://fresherfries.github.io/CV-writing)
 - Chess
