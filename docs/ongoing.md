@@ -2,9 +2,7 @@
 
 <h2> Ongoing Works </h2>
 
-- [MASTERS DISSERTATION](#masters-dissertation)
-- [CERTIFICATIONS](#certifications)
-- [LANGUAGE(S)](#languages)
+
 
 ### MASTERS DISSERTATION
 Topic: Education Vulnerable Web Application for Beginners <br>

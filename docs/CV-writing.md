@@ -2,15 +2,9 @@
 
 <h2> CV </h2>
 
-- [WORK EXPERIENCE](#work-experience)
-  - [Co-Founder, Editor and Book Reviewer](#co-founder-editor-and-book-reviewer)
-  - [Book Reviewer](#book-reviewer)
-  - [Freelance Blogger](#freelance-blogger)
-  - [Content Writer](#content-writer)
-  - [Core Committee Member & Multiple Responsibilities](#core-committee-member--multiple-responsibilities)
-- [ONLINE COURSES](#online-courses)
-  - [Creative Writing Course](#creative-writing-course)
-- [SKILLS](#skills)
+1. [WORK EXPERIENCE](#work-experience)
+2. [ONLINE COURSES](#online-courses)
+3. [SKILLS](#skills)
 
 ## WORK EXPERIENCE
 
