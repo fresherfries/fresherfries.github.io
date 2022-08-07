@@ -68,16 +68,16 @@ Consolidated CV in PDF form is available [here](https://fresherfries.github.io/M
 <!--
 ### 11th and 12th Grades
 Institution: AECS Magnolia PU College FIITJEE <br>
-Duration: 2014 - 2016 <br>
+🕚 2014 - 2016 <br>
 Percentage: 87.5
 
 ### 6th to 10th Grades
-Duration: 2009 - 2014 <br>
+🕚 2009 - 2014 <br>
 Institution: Delhi Public School, Diamond Point, Secunderabad <br>
 CGPA: 9.8 
 
 ### 5th Grade
-Duration: 2008 - 2009 <br>
+🕚 2008 - 2009 <br>
 Institution: Millstone River School, Plainsboro, New Jersey, USA <br>
 
 -->
@@ -132,12 +132,12 @@ data privacy and security.
 ### Outstanding Woman in Cyber and Third Place Winner in Poster Category
 Event Name: 5th IEEE Conference on Dependable and Secure Computing (SICSA Event) <br>
 Type of Event: IEEE Conference <br>
-Duration: 06/2022
+🕚 06/2022
 
 ### First Place Winner
 Event Name: HackOnFest 2020 <br>
 Type of Event: Online Global level Bug-Bounty program for beginners in Ethical Hacking <br>
-Duration: 14/10/2020 - 7/1/2021
+🕚 14/10/2020 - 7/1/2021
 
 ## CERTIFICATIONS
 
@@ -165,8 +165,8 @@ Certified 2021
 ## ONLINE COURSES
 
 ### Ethical Hacking Course
-Company: Internshala <br>
-Duration: 29/3/2020 - 10/5/2020 (6 weeks)
+💼 Internshala <br>
+🕚 29/3/2020 - 10/5/2020 (6 weeks)
 - Information gathering
 - Web VAPT
 - OWASP
@@ -186,17 +186,17 @@ Duration: 29/3/2020 - 10/5/2020 (6 weeks)
 
 ### Virtual Moderator
 Event: SEC460 course - SANS Cyber Defense India 2022 Event
-Organisation: SANS
+💼 SANS
 
 ### Volunteer Member
-Organisation: Electronic Frontier Foundation
+💼 Electronic Frontier Foundation
 
 ### 2022 SheLeadsTech Ambassador
-Organisation: ISACA
+💼 ISACA
 
 ### Hacking Competition Participant
 Event: Core NetWars Tournament 8 - SANS Asia Pacific Regional July 2022 <br> 
-Organisation: SANS
+💼 SANS
 
 ## LANGUAGES
 
