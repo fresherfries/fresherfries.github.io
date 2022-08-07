@@ -9,7 +9,7 @@ Consolidated CV in PDF form is available [here](https://fresherfries.github.io/M
   - [BTech Computer Science and Engineering](#btech-computer-science-and-engineering)
 - [WORK EXPERIENCE](#work-experience)
   - [Ethical Hacking Intern](#ethical-hacking-intern)
-- [Publications](#publications)
+- [PUBLICATIONS](#publications)
   - [Automated Anomaly Detection tool for Industrial Control Systems](#automated-anomaly-detection-tool-for-industrial-control-systems)
   - [Live Stream Processing Techniques to Assist Unmanned, Regulated Railway Crossings](#live-stream-processing-techniques-to-assist-unmanned-regulated-railway-crossings)
   - [Smart Prediction and Monitoring of Waste Disposal System Using IoT and Cloud for IoT Based Smart Cities](#smart-prediction-and-monitoring-of-waste-disposal-system-using-iot-and-cloud-for-iot-based-smart-cities)
@@ -33,9 +33,9 @@ Consolidated CV in PDF form is available [here](https://fresherfries.github.io/M
   - [Hacking Competition Participant](#hacking-competition-participant)
 - [LANGUAGES](#languages)
 - [SKILLS](#skills)
-  - [Cybersecurity Skills](#cybersecurity-skills)
-  - [Other Technical Skills](#other-technical-skills)
-  - [Non-Technical Skills](#non-technical-skills)
+  - [Cybersecurity](#cybersecurity)
+  - [Other Technical](#other-technical)
+  - [Non-Technical](#non-technical)
 - [INTERESTS](#interests)
 
 ## EDUCATION
@@ -91,7 +91,7 @@ Institution: Millstone River School, Plainsboro, New Jersey, USA <br>
 - Learnt ethical hacking basics
 - Worked with the penetration testing team on endpoint security
 
-## Publications
+## PUBLICATIONS
 
 ### Automated Anomaly Detection tool for Industrial Control Systems
 Proceedings: (Publication Pending) <br>
@@ -207,7 +207,7 @@ Event: Core NetWars Tournament 8 - SANS Asia Pacific Regional July 2022 <br>
 
 ## SKILLS
 
-### Cybersecurity Skills
+### Cybersecurity
 - Familiar with OWASP Top Ten, Kali Linux and Python for web application security testing.
 - Hands-on experience with penetration testing tools such as Burp Suite (Community Edition), Metasploit and sqlmap.
 - Utilize and analyze results from scanners such as OpenVAS, Acunetix, OWASP ZAP, Nmap and Tenable Nessus to perform a
@@ -215,7 +215,7 @@ vulnerability assessment and management.
 - Effectively write reports aimed at technical and non-technical personnel.
 - Research existing security threats and provide recommendations to combat them.
 
-### Other Technical Skills
+### Other Technical
 - HTML
 - CSS
 - C++
@@ -224,7 +224,7 @@ vulnerability assessment and management.
 - SQL Plus
 - MySQL
 
-### Non-Technical Skills
+### Non-Technical
 - Strong Work Ethic
 - Ability to work well under pressure
 
