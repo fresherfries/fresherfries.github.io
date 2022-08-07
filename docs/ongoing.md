@@ -7,7 +7,7 @@
 - [LANGUAGE(S)](#languages)
 
 ### MASTERS DISSERTATION
-Topic: Education Vulnerable Web Application for Beginners
+Topic: Education Vulnerable Web Application for Beginners <br>
 🕚 06/2022 - Present
 - Reviewed 15 existing vulnerable web applications built for cybersecurity education.
 - Identified the gap in real vs. expected knowledge required to use these applications.
