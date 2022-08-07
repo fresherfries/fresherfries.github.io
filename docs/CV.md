@@ -4,10 +4,10 @@
 
 Consolidated CV in PDF form is available [here](https://fresherfries.github.io/Mariam_Varkey_CV.pdf)
 
-- [Education](#education)
+- [EDUCATION](#education)
   - [MSc Ethical Hacking and Cybersecurity](#msc-ethical-hacking-and-cybersecurity)
   - [BTech Computer Science and Engineering](#btech-computer-science-and-engineering)
-- [Work Experience](#work-experience)
+- [WORK EXPERIENCE](#work-experience)
   - [Ethical Hacking Intern](#ethical-hacking-intern)
 - [Publications](#publications)
   - [Automated Anomaly Detection tool for Industrial Control Systems](#automated-anomaly-detection-tool-for-industrial-control-systems)
@@ -38,7 +38,7 @@ Consolidated CV in PDF form is available [here](https://fresherfries.github.io/M
   - [Non-Technical Skills](#non-technical-skills)
 - [Interests](#interests)
 
-## Education
+## EDUCATION
 
 ### MSc Ethical Hacking and Cybersecurity
 🏫 Abertay University, Dundee, Scotland <br>
@@ -82,7 +82,7 @@ Institution: Millstone River School, Plainsboro, New Jersey, USA <br>
 
 -->
 
-## Work Experience
+## WORK EXPERIENCE
 
 ### Ethical Hacking Intern
 💼 EY <br>

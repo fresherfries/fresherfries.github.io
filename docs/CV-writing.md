@@ -2,17 +2,17 @@
 
 <h1> CV </h1>
 
-- [Work Experience](#work-experience)
+- [WORK EXPERIENCE](#work-experience)
   - [Co-Founder, Editor and Book Reviewer](#co-founder-editor-and-book-reviewer)
   - [Book Reviewer](#book-reviewer)
   - [Freelance Blogger](#freelance-blogger)
   - [Content Writer](#content-writer)
   - [Core Committee Member & Multiple Responsibilities](#core-committee-member--multiple-responsibilities)
-- [Online Courses](#online-courses)
+- [ONLINE COURSES](#online-courses)
   - [Creative Writing Course](#creative-writing-course)
-- [Skills](#skills)
+- [SKILLS](#skills)
 
-## Work Experience
+## WORK EXPERIENCE
 
 ### Co-Founder, Editor and Book Reviewer
 Company: The Rising Tilde <br>
@@ -60,13 +60,13 @@ Duration: 02/2017 - 03/2018
 - Manager - Career Convention 3.0 (2018) Club’s flagship Event
 
 
-## Online Courses
+## ONLINE COURSES
 
 ### Creative Writing Course
 Company: Internshala  <br>
 Duration: 6 weeks
 
-## Skills
+## SKILLS
 
 - Editing
 - Creative Writing
