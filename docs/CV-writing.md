@@ -2,9 +2,9 @@
 
 <h2> CV </h2>
 
-1. [WORK EXPERIENCE](#work-experience)
-2. [ONLINE COURSES](#online-courses)
-3. [SKILLS](#skills)
+1. WORK EXPERIENCE
+2. ONLINE COURSES
+3. SKILLS
 
 ## WORK EXPERIENCE
 

@@ -4,17 +4,17 @@
 
 Consolidated CV in PDF form is available [here](https://fresherfries.github.io/Mariam_Varkey_CV.pdf)
 
-1. [EDUCATION](#education)
-2. [WORK EXPERIENCE](#work-experience)
-3. [PUBLICATIONS](#publications)
-4. [ACHIEVEMENTS](#achievements)
-5. [CERTIFICATIONS](#certifications)
-6. [PROJECTS](#projects)
-7. [ONLINE COURSES](#online-courses)
-8. [VOLUNTEER ROLES AND EVENT PARTICIPATIONS](#volunteer-roles-and-event-participations)
-9. [LANGUAGES](#languages)
-10. [SKILLS](#skills)
-11. [INTERESTS](#interests)
+1. EDUCATION
+2. WORK EXPERIENCE
+3. PUBLICATIONS
+4. ACHIEVEMENTS
+5. CERTIFICATIONS
+6. PROJECTS
+7. ONLINE COURSES
+8. VOLUNTEER ROLES AND EVENT PARTICIPATIONS
+9. LANGUAGES
+10. SKILLS
+11. INTERESTS
 
 ## EDUCATION
 
