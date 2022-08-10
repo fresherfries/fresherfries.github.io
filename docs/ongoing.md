@@ -5,6 +5,7 @@
 1. MASTERS DISSERTATION
 2. CERTIFICATIONS
 3. LANGUAGE(S)
+4. LEARNING/REVISING LOG
 
 ## MASTERS DISSERTATION
 Topic: Education Vulnerable Web Application for Beginners <br>
@@ -22,3 +23,8 @@ application vulnerabilities.
 ## LANGUAGE(S)
 
 - Thai
+  
+## LEARNING/REVISING LOG
+
+### TryHackMe
+- Post-Exploitation Basics (10 Aug 2022)
