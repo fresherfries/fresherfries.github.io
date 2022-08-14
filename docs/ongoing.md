@@ -28,3 +28,6 @@ application vulnerabilities.
 
 ### TryHackMe
 - Post-Exploitation Basics (10 Aug 2022)
+- How Websites Work (14 Aug 2022)
+- DNS in detail (14 Aug 2022)
+- Nmap (14 Aug 2022)

@@ -11,10 +11,11 @@ Consolidated CV in PDF form is available [here](https://fresherfries.github.io/M
 5. CERTIFICATIONS
 6. PROJECTS
 7. ONLINE COURSES
-8. VOLUNTEER ROLES AND EVENT PARTICIPATIONS
-9. LANGUAGES
-10. SKILLS
-11. INTERESTS
+8. ONLINE LEARNING PROFILES
+9. VOLUNTEER ROLES AND EVENT PARTICIPATIONS
+10. LANGUAGES
+11. SKILLS
+12. INTERESTS
 
 ## EDUCATION
 
@@ -159,6 +160,15 @@ Certified 2021
 
 ### SEC460 course - SANS Cyber Defense India 2022 Event
 💼 SANS
+
+## ONLINE LEARNING PROFILES
+
+### TryHackMe
+
+[Profile Link](https://tryhackme.com/p/AlenaHax)
+- Number of Rooms completed: 5
+- Rank: 225942 (Top 18%)
+- Level: 3
 
 ## VOLUNTEER ROLES AND EVENT PARTICIPATIONS
 
