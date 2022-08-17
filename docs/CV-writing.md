@@ -53,7 +53,6 @@ suitable demographic.
   - Interviewed Guest Speakers
 - Manager - Career Convention 3.0 (2018) Club’s flagship Event
 
-
 ## ONLINE COURSES
 
 ### Creative Writing Course
