@@ -1,5 +1,3 @@
-<!-- Generated using https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-
 <h1 align="center">Hi 👋, I'm Mariam Varkey. </h1>
 <h3 align="center">A MSc Ethical Hacking and Cybersecurity student at Abertay University, Scotland.</h3>
 
