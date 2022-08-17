@@ -4,18 +4,18 @@
 
 Consolidated CV in PDF form is available [here](https://fresherfries.github.io/Mariam_Varkey_CV.pdf)
 
-1. EDUCATION
-2. WORK EXPERIENCE
-3. PUBLICATIONS
-4. ACHIEVEMENTS
-5. CERTIFICATIONS
-6. PROJECTS
-7. ONLINE COURSES
-8. ONLINE LEARNING PROFILES
-9. VOLUNTEER ROLES AND EVENT PARTICIPATIONS
-10. LANGUAGES
-11. SKILLS
-12. INTERESTS
+1. [EDUCATION](#education)
+2. [WORK EXPERIENCE](#work-experience)
+3. [PUBLICATIONS](#publications)
+4. [ACHIEVEMENTS](#achievements)
+5. [CERTIFICATIONS](#certifications)
+6. [PROJECTS](#projects)
+7. [ONLINE COURSES](#online-courses)
+8. [ONLINE LEARNING PROFILES](#online-learning-profiles)
+9. [VOLUNTEER ROLES AND EVENT PARTICIPATIONS](#volunteer-roles-and-event-participations)
+10. [LANGUAGES](#languages)
+11. [SKILLS](#skills)
+12. [INTERESTS](#interests)
 
 ## EDUCATION
 
@@ -166,8 +166,8 @@ Certified 2021
 ### TryHackMe
 
 [Profile Link](https://tryhackme.com/p/AlenaHax)
-- Number of Rooms completed: 5
-- Rank: 225942 (Top 18%)
+- Number of Rooms completed: 8
+- Rank: 223665 (Top 17%)
 - Level: 3
 
 ## VOLUNTEER ROLES AND EVENT PARTICIPATIONS

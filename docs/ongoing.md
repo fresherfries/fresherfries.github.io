@@ -2,10 +2,10 @@
 
 <h2> Ongoing Works </h2>
 
-1. MASTERS DISSERTATION
-2. CERTIFICATIONS
-3. LANGUAGE(S)
-4. LEARNING/REVISING LOG
+1. [MASTERS DISSERTATION](#masters-dissertation)
+2. [CERTIFICATIONS](#certifications)
+3. [LANGUAGE(S)](#languages)
+4. [LEARNING/REVISING LOG](#learningrevising-log)
 
 ## MASTERS DISSERTATION
 Topic: Education Vulnerable Web Application for Beginners <br>
@@ -27,7 +27,11 @@ application vulnerabilities.
 ## LEARNING/REVISING LOG
 
 ### TryHackMe
+- Tutorial (28 Jul 2022)
 - Post-Exploitation Basics (10 Aug 2022)
 - How Websites Work (14 Aug 2022)
 - DNS in detail (14 Aug 2022)
 - Nmap (14 Aug 2022)
+- Careers in Cyber (15 Aug 2022)
+- Starting Out in Cyber Sec (15 Aug 2022)
+- Intro to Offensive Security (15 Aug 2022)
