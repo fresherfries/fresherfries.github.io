@@ -10,7 +10,7 @@ Welcome to my portfolio.
 
 - 🔭 I’m currently working on [Ongoing Projects](https://fresherfries.github.io/ongoing)
 
-- 🌱 I’m currently learning *Ethical Hacking*
+- 🌱 I’m currently learning *Ethical Hacking* ([Learning/Revising Log](https://fresherfries.github.io/ongoing#learningrevising-log))
 
 - 🤝 I’m looking for help with CyberSecurity jobs in India. 
 
