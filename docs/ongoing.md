@@ -36,3 +36,4 @@ application vulnerabilities.
 - Careers in Cyber (15 Aug 2022)
 - Starting Out in Cyber Sec (15 Aug 2022)
 - Intro to Offensive Security (15 Aug 2022)
+- Introductory Researching (2 Sept 2022)

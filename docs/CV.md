@@ -166,9 +166,7 @@ Certified 2021
 ### TryHackMe
 
 [Profile Link](https://tryhackme.com/p/AlenaHax)
-- Number of Rooms completed: 8
-- Rank: 223665 (Top 17%)
-- Level: 3
+- Top 15%
 
 ## VOLUNTEER ROLES AND EVENT PARTICIPATIONS
 
