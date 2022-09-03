@@ -166,7 +166,7 @@ Certified 2021
 ### TryHackMe
 
 [Profile Link](https://tryhackme.com/p/AlenaHax)
-- Top 15%
+- Top 13%
 
 ## VOLUNTEER ROLES AND EVENT PARTICIPATIONS
 

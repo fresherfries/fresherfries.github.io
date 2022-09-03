@@ -37,3 +37,8 @@ application vulnerabilities.
 - Starting Out in Cyber Sec (15 Aug 2022)
 - Intro to Offensive Security (15 Aug 2022)
 - Introductory Researching (2 Sept 2022)
+- Security Awareness (2 Sept 2022)
+- Learning Cyber Security (2 Sept 2022)
+- HTTP in detail (2 Sept 2022)
+- Intro to Defensive Security (2 Sept 2022)
+- Network Security (2 Sept 2022)
