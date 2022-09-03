@@ -42,3 +42,4 @@ application vulnerabilities.
 - HTTP in detail (2 Sept 2022)
 - Intro to Defensive Security (2 Sept 2022)
 - Network Security (2 Sept 2022)
+- Security Operations (3 Sept 2022)
