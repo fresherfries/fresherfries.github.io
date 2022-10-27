@@ -2,7 +2,7 @@
 
 <h2> CV </h2>
 
-Consolidated CV in PDF form is available [here](https://fresherfries.github.io/Mariam_Varkey_CV.pdf)
+<!-- Consolidated CV in PDF form is available [here](https://fresherfries.github.io/Mariam_Varkey_CV.pdf) -->
 
 1. [EDUCATION](#education)
 2. [WORK EXPERIENCE](#work-experience)
@@ -73,9 +73,9 @@ Institution: Millstone River School, Plainsboro, New Jersey, USA <br>
 ## PUBLICATIONS
 
 ### Automated Anomaly Detection tool for Industrial Control Systems
-Proceedings: (Publication Pending) <br>
-DOI: (Publication Pending) <br>
-Publication Date: (Publication Pending)
+Proceedings: 2022 IEEE Conference on Dependable and Secure Computing (DSC) <br>
+DOI: 10.1109/DSC54232.2022.9888891 <br>
+Publication Date: Jun 22, 2022
 - Used Interquartile Range and Finite State Automata to identify anomalies.
 - Tested the tool with three varied ICS to improve resilience: Secure Water Treatment testbed, Water Distribution testbed
 and Gasoil Heating Loop.
@@ -120,6 +120,10 @@ Type of Event: Online Global level Bug-Bounty program for beginners in Ethical H
 
 ## CERTIFICATIONS
 
+### GIAC Enterprise Vulnerability Assessor (GEVA)
+Certified 2022
+[Link](https://www.credly.com/badges/e98a34ca-d5b0-400c-927c-a00a79672e30/)
+
 ### MTA: Security Fundamentals
 Certified 2021
 - Security layers
@@ -129,6 +133,13 @@ Certified 2021
 - Protecting Server & Client
 
 ## PROJECTS
+
+### MASTERS DISSERTATION
+Topic: Education Vulnerable Web Application for Beginners <br>
+🕚 Jun 2022 - Sep 2022
+- Reviewed 15 existing vulnerable web applications built for cybersecurity education.
+- Identified the gap in real vs. expected knowledge required to use these applications.
+- Designed a new novice-friendly vulnerable application to help aspiring penetration testers learn 6 common web application vulnerabilities.
 
 ### Web Application Penetration test
 🕚 Apr 2022
@@ -166,7 +177,7 @@ Certified 2021
 ### TryHackMe
 
 [Profile Link](https://tryhackme.com/p/AlenaHax)
-- Top 13%
+- Top 12%
 
 ## VOLUNTEER ROLES AND EVENT PARTICIPATIONS
 

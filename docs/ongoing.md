@@ -2,22 +2,12 @@
 
 <h2> Ongoing Works </h2>
 
-1. [MASTERS DISSERTATION](#masters-dissertation)
-2. [CERTIFICATIONS](#certifications)
-3. [LANGUAGE(S)](#languages)
-4. [LEARNING/REVISING LOG](#learningrevising-log)
-
-## MASTERS DISSERTATION
-Topic: Education Vulnerable Web Application for Beginners <br>
-🕚 06/2022 - Present
-- Reviewed 15 existing vulnerable web applications built for cybersecurity education.
-- Identified the gap in real vs. expected knowledge required to use these applications.
-- Designing a new novice-friendly vulnerable application to help aspiring penetration testers learn 10 common web
-application vulnerabilities.
+1. [CERTIFICATIONS](#certifications)
+2. [LANGUAGE(S)](#languages)
+3. [LEARNING/REVISING LOG](#learningrevising-log)
 
 ## CERTIFICATIONS
 
-- GIAC Enterprise Vulnerability Assessor (GEVA)
 - OSCP
 
 ## LANGUAGE(S)
@@ -43,3 +33,5 @@ application vulnerabilities.
 - Intro to Defensive Security (2 Sept 2022)
 - Network Security (2 Sept 2022)
 - Security Operations (3 Sept 2022)
+- Intro to Digital Forensics (7 Sept 2022)
+- Web Application Security (14 Sept 2022)

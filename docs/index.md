@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariam Varkey. </h1>
-<h3 align="center">A MSc Ethical Hacking and Cybersecurity student at Abertay University, Scotland.</h3>
+<h3 align="center">Associate Cyber Security Consultant</h3>
 
-Soon-to-be Postgraduate looking forward to utilizing the knowledge gained during master’s program, research, and multiple courses to protect and secure companies and their assets. Highly motivated and detail-oriented individual seeking to develop a professional career in cyber security. Have won conference awards for research in cyber security.
+Ethical Hacking Postgraduate utilizing the knowledge gained during master’s program, research, and multiple courses to protect and secure companies and their assets. Highly motivated and detail-oriented individual seeking to develop a professional career in cyber security. Have won conference awards for research in cyber security.
 
 Welcome to my portfolio.
 
