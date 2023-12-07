@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mariam Varkey. </h1>
-<h3 align="center">Associate Cyber Security Consultant</h3>
+<h3 align="center">Cyber Security Consultant</h3>
 
-Ethical Hacking Postgraduate utilizing the knowledge gained during master’s program, research, and multiple courses to protect and secure companies and their assets. Highly motivated and detail-oriented individual seeking to develop a professional career in cyber security. Have won conference awards for research in cyber security.
+Ethical Hacking Postgraduate utilizing the knowledge gained during master’s program, research, and multiple certifications and courses to protect and secure companies and their assets. Highly motivated and detail-oriented individual seeking to develop a professional career in cyber security. Have won conference awards for research in cyber security.
 
 Welcome to my portfolio.
-
-- 🔭 I’m currently working on [Ongoing Projects](https://fresherfries.github.io/ongoing)
-
-- 🌱 I’m currently learning *Ethical Hacking* ([Learning/Revising Log](https://fresherfries.github.io/ongoing#learningrevising-log))
-
-- 🤝 I’m looking for help with CyberSecurity jobs in India. 
 
 - 👨‍💻 All of my projects and experiences are available at [CV](https://fresherfries.github.io/CV)
 
