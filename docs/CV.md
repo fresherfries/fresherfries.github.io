@@ -44,24 +44,17 @@
 - Data Structures and Algorithms 		
 - Database Management Systems
 
-<!--
-### 11th and 12th Grades
-Institution: AECS Magnolia PU College FIITJEE <br>
-🕚 2014 - 2016 <br>
-Percentage: 87.5
-
-### 6th to 10th Grades
-🕚 2009 - 2014 <br>
-Institution: Delhi Public School, Diamond Point, Secunderabad <br>
-CGPA: 9.8 
-
-### 5th Grade
-🕚 2008 - 2009 <br>
-Institution: Millstone River School, Plainsboro, New Jersey, USA <br>
-
--->
-
 ## WORK EXPERIENCE
+
+### Cyber Security Consultant
+💼 EY <br>
+📍 Bengaluru, India <br>
+🕚 10/2023 - Present
+
+### Cyber Security Associate Consultant
+💼 EY <br>
+📍 Bengaluru, India <br>
+🕚 09/2022 - 09/2023
 
 ### Ethical Hacking Intern
 💼 EY <br>
@@ -120,9 +113,21 @@ Type of Event: Online Global level Bug-Bounty program for beginners in Ethical H
 
 ## CERTIFICATIONS
 
+### GIAC Cloud Penetration Tester (GCPN)
+Certified Nov 2023
+[Link](https://www.credly.com/badges/fb03c9c0-8b2d-4659-b536-fd34396011d3)
+
 ### GIAC Enterprise Vulnerability Assessor (GEVA)
 Certified 2022
 [Link](https://www.credly.com/badges/e98a34ca-d5b0-400c-927c-a00a79672e30/)
+
+### Microsoft Certified: Azure Security Engineer Associate
+Certified Sep 2023
+[Link](https://learn.microsoft.com/en-us/users/mariamvarkey-8412/credentials/7f58c80a1a195391)
+
+### Microsoft Certified: Azure Fundamentals
+Certified Nov 2023
+[Link](https://learn.microsoft.com/en-us/users/mariamvarkey-8412/credentials/2f3b9f1ba7832e47)
 
 ### MTA: Security Fundamentals
 Certified 2021
